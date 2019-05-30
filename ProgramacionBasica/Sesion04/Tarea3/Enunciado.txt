@@ -1,0 +1,55 @@
+Pregunta 1
+
+Una cadena de cine local va a lanzar un aplicativo móvil que permita a sus usuarios comprar tanto las entradas de cine así como combos de gaseosa y canchita. La tabla de precios está en la siguiente tabla:
+
+	Normal	Premium
+Martes	8.00	16.00
+Jueves	16.00	32.00
+Resto Días	12.00	24.00
+
+Para el caso de los combos se tienen los siguientes valores:
+
+	Precio (S/.)
+Combo1	10.00
+Combo2	12.50
+Combo3	13.00
+Combo4	16.00
+ 
+Se pide lo siguiente:
+1.	Dado un día de la semana y un tipo de entrada, determinar el precio a pagar por entrada.
+2.	Dado un tipo de combo, determinar el precio a pagar.
+3.	Si el cliente tiene la tarjeta de fidelización se le otorgará un descuento del 5% sobre el monto total a pagar. Determinar el monto a pagar si un cliente quiere una entrada más combo.
+
+
+Pregunta 2
+
+Una empresa de venta de equipos electrodomésticos como plan de mejora continua desea implementar el pago de comisiones, algo que nunca se había estar realizando. Todo el personal de ventas gana 1500 soles como sueldo base. De acuerdo a las ventas realizadas se desea calcular un valor adicional mensual para incentivar el aumento de las ventas. Para ello hay que considerar el tiempo que el vendedor viene laborando en la empresa y el rango de las ventas realizadas. El siguiente cuadro muestra la información necesaria para poder realizar el cálculo:
+
+	Ventas			
+Años de Servicio	1000 a 2500 soles	2501 a 5000 soles	5001 a 10000 soles	Más de 10000 soles
+1 a 4	2%	3%	4%	5%
+5 a 10	2.5%	3.5%	4.5%	5.5%
+11 a 15	3%	4%	5%	6%
+Más de 15 años	5%	6%	7%	8%
+
+Realizar un subprograma que calcule el monto total a pagar a fin de mes a un vendedor. 
+
+Pregunta 3
+
+Una compañía que importa cápsulas de máquinas de café está teniendo la siguiente promoción en cuanto al precio por unidad:
+
+	Expreso	Americano	ConLeche
+100 a 150	1.80	1.85	1.90
+151 a 250	1.65	1.70	1.80
+251 a más	1.55	1.60	1.70
+
+Adicionalmente, para aquellos que quieran alquiler de menaje:
+
+	Precio
+10 juegos de tazas	90.00
+20 juegos de tazas	165.00
+30 juegos de tazas	250.00
+ 
+Se pide lo siguiente:
+1.	Dada una cantidad y tipo de café, mostrar el monto a pagar.
+2.	Dado una cantidad de tazas, determinar el monto a pagar.

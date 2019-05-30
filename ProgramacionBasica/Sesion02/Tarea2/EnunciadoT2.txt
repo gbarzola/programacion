@@ -1,0 +1,32 @@
+Estudios Profesionales para Ejecutivos
+FUNDAMENTOS DE PROGRAMACION (IS209)
+Actividad No 2
+Ciclo 2017-1-MC
+
+Profesor: Montero Roberto, Subauste Daniel, Herrera Zico, Lizardo Silva	
+
+Indicaciones:
+●	El trabajo es individual
+●	Debe subir al aula virtual los archivos .rb donde figura la solución respectiva.
+
+Pregunta 1
+
+Una empresa de ventas necesita un programa que le permite calcular las boletas de pago de sus vendedores. Un vendedor que tiene su sueldo base, recibe una comisión del 10% del total de las ventas del mes. Si el las ventas se registras por semanas (4 ventas al mes) se quiere saber cuánto ganará en un mes. Tener en cuenta que se le aplica un descuento del 15% por concepto de cargas familiares.
+
+Pregunta 2
+Existe un “número de la suerte” que toda persona tiene y que está en función de la fecha de su nacimiento. Es así que el número de la suerte de una persona que nació el 31/07/1970 será el siguiente:
+-	31+07+1970=2008 (se suma el día, mes y año de la fecha)
+-	2+0+0+8= 10 (se suman los dígitos de la suma anterior)
+-	10 es el número de la suerte
+Desarrollar un programa para determinar el número de la suerte de cualquier persona.
+
+Pregunta 3
+
+Se requiere obtener el área de la figura de la forma A. Para resolver este problema se puede partir de que está formada por tres figuras: dos triángulos rectángulos, con H como hipotenusa y R como uno de los catetos, que también es el radio de la otra figura, una semicircunferencia que forma la parte circular (ver forma B). Desarrolle el problema con un programa donde tiene como datos de entrada R y H.
+Además tome en cuenta que 
+ 
+
+Pregunta 4
+
+Un productor de leche lleva el registro de lo que produce en litros, pero cuando entrega le pagan en galones. Realice un programa que ayude al productor a saber cuánto recibirá por la entrega de su producción de un día (1 galón = 3.785 litros). Los datos de entrada con la cantidad de leche producida en un día y precio por galón que le pagan.
+

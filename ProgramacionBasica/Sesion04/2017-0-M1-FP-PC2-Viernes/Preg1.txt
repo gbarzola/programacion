@@ -1,0 +1,29 @@
+PRÁCTICA (45 minutos)							(10 puntos)
+Indicaciones:
+●	No se permite el uso de material de consulta.
+●	Se descontarán puntos por lógica y sintaxis incorrectas.
+●	Al finalizar el tiempo indicado en la pizarra se deberá subir inmediatamente la respuesta al aula virtual. El aula virtual se cierra automáticamente y quien no suba su respuesta tendrá 0 de nota sin lugar a reclamo.
+●	El sistema monitorea constantemente la actividad en las computadoras. Cualquier acto de copia será sancionado y elevado al tribunal de honor de la universidad.
+
+Pregunta 1 
+ 
+Un conocido programa de televisión ha promocionado una feria gastronómica en un distrito de la ciudad de Lima. Para seto ha seleccionado una serie de restaurantes los cuales han acordado tener 3 tipos de tamaños del plato. Los precios dependen del tipo de comida que ofrece cada restaurante. 
+El cuadro de precios se muestra en la tabla que se muestra a continuación:
+
+	          Criolla	Pachamanca	Selvatica
+Ligero	         8.00	9.50	    8.90
+Mediano	        12.00	14.00	    13.00
+Contundenete	15.00	17.50	    16.00
+
+Adicionalmente, para el caso de las bebidas, se ha dispuesto de stands a lo largo de la feria. Las bebidas se muestran en la siguiente tabla:
+
+	Precio (S/.)
+Gaseosa	2.00
+Chicha	2.50
+Limonada	3.00
+Cerveza	6.00
+ 
+Se pide lo siguiente:
+1.	Dada una bebida, determinar el precio a pagar
+2.	Dado un plato y el tamaño del mismo, determinar el precio a pagar
+3.	Si adicionalmente la compra de la bebida con el plato de comida es mayor o igual a 15 soles, el cliente se hace acreedor a un postre de cortesía. Determinar si un cliente tiene o no acceso al postre de cortesía.
